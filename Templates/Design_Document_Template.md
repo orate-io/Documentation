@@ -25,7 +25,7 @@ This section details how you went about creating a solution for your project. Th
 
 ## Failure considerations
 
-where are areas for possible failure and how will we deal with these errors, usually user based. Ex. if unable to reach server what will you show website users?
+Where are areas for possible failure and how will we deal with these errors, usually user based. Ex. if unable to reach server what will you show website users?
 
 ## Alternative Considerations
 
@@ -35,14 +35,17 @@ When deciding on what components, algorithms, and/or services used in your proje
 
 How You went about testing the project, and ensured that all components of your work is functional and there are failsafe put into place when a component does not work: This is an example of things to test for:
 
-- edge cases in algorithms
-- testing webpage on all browsers and devices
-- ensure that all links are functional
+- Edge cases in algorithms
+- Testing webpage on all browsers and devices
+- Ensure that all links are functional
 - Validate that user information is actually sent to server
 
 ## Operational considerations
 
-measure how successful our product is and if theres any issues ex. latency
+This section section details how technical objectives succesfulness will be measured. Examples:
+
+- Dashboards for latency to show that we are achieving less than X
+- Dashboards to show error rate of speech to text translation
 
 ## Future Considerations
 
