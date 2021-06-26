@@ -1,23 +1,25 @@
 # Design Document
+
 ## Overview
 
-brief summary of what the project will look like An individual should get a general idea of what your work is just by looking at this section and should only need to look at other sections to get specific details. should include:
-- Explanation of what the project does
-- what the users will see 
-- and how we will responded to user inputs
+This should be a brief summary of what the project will look like. An individual should get a general idea of what your work is just by looking at this section and should only need to look at other sections to get specific details. These parts should be included:
 
+- Explanation of what the project does
+- What the users will see
+- How we will responded to user inputs
 
 ## Assumptions/Requirements
 
 Here you write what the is in and out of scope for project
-What are the requirements you have to meet for it to be a completed project
-What are the constraints of the project
-What user information you will need
-Any assumptions that you had when you made design decisions
+
+- What are the requirements you have to meet for it to be a completed project
+- What are the constraints of the project
+- What user information you will need
+- Any assumptions that you had when you made design decisions
 
 ## Solution
 
-This section details how you went about creating a solution for your project. This section should include high level flowchart and sequence diagram, solution description, use cases, and example request and responses between other services or other components of the overall product. 
+This section details how you went about creating a solution for your project. This section should include high level flowchart and sequence diagram, solution description, use cases, and example request and responses between other services or other components of the overall product.
 
 ## Use case Diagram
 
@@ -31,12 +33,17 @@ When deciding on what components, algorithms, and/or services used in your proje
 
 ## Testing considerations
 
-How we went about testing the solution to the project
+How You went about testing the project, and ensured that all components of your work is functional and there are failsafe put into place when a component does not work: This is an example of things to test for:
+
+- edge cases in algorithms
+- testing webpage on all browsers and devices
+- ensure that all links are functional
+- Validate that user information is actually sent to server
 
 ## Operational considerations
 
-measure how successful our product is and if theres any issues ex. latency 
+measure how successful our product is and if theres any issues ex. latency
 
 ## Future Considerations
 
-any future improvements for the project that won't be included for the time being. Don't just put in a bunch of abstract ideas, you should add how you will go about implementing these new features given the time and resources. If a future consideration is added to the project scope you should adjust the entire document accordingly.
+Any future improvements for the project that won't be included for the time being. Don't just put in a bunch of abstract ideas, you should add how you will go about implementing these new features given the time and resources. If a future consideration is added to the project scope you should adjust the entire document accordingly.
